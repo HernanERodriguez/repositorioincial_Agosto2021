@@ -2,6 +2,8 @@ Agregado en TP1A
 Linea incial
 Agrego una línea
 
+Agregado TP2A
+
 Modifico estando en stage
 Agregado en el local
 
