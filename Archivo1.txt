@@ -1,5 +1,7 @@
 Linea incial
+Agregado Ticket1
 Agrego una línea
 
 Modifico estando en stage
 Agregado en el local
+Agregado Ticket 1
