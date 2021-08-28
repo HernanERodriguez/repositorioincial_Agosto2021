@@ -1,5 +1,6 @@
 Agregado en TP1A
 Linea incial
+Agregado Ticket1
 Agrego una línea
 
 Agregado TP2A
@@ -7,4 +8,4 @@ Agregado TP2A
 Modifico estando en stage
 Agregado en el local
 
-Agregado TP1X
+Agregado Ticket 1 TP1X
