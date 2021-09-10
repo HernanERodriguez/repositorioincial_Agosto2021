@@ -5,6 +5,7 @@ Agregado Ticket1
 Agrego una línea
 
 Agregado TP2A
+Cambio sin deshacer2
 
 Modifico estando en stage
 Agregado en el local
