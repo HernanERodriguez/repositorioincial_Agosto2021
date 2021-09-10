@@ -1,4 +1,3 @@
-Cambio para deshacer
 Agregado en TP1A
 Linea incial
 Agregado Ticket1
